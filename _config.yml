@@ -34,6 +34,10 @@ additional_links:
 - title: IT SKILLS
   icon: fas fa-globe
   url: https://cutt.ly/VjWS5WY
+additional_links:
+- title: resume
+  icon: fas fa-download
+  url: assets/Siddarth Tripathi up2 .pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
