@@ -52,9 +52,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Capture1.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddharth Tripathi and I'm a enginer in Minda industry in Design Department  I also have experience in Process engineering
-  The sofware i know is NX-11.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Siddharth Tripathi and I'm a enginer in Minda industry in Design Department with a batches in mechanical engineering 
+  I also have experience in Process engineering
+  The design sofware i know is NX-11.
+  I am most skilled in: <mark>NX-11</mark> and <mark>Product Drafting</mark>
 
 content:
   - title: Projects # Title for the section
